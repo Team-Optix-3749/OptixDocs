@@ -1,7 +1,7 @@
 ---
 description: >-
   Team Optix's collection of technical and general FIRST® Robotics Competition
-  resources. DM Raadwan on Discord if you want access to edit (Gravity#6331).
+  resources.
 ---
 
 # General Resources
