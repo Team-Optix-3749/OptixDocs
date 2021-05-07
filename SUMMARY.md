@@ -34,3 +34,11 @@
 
 * [General](news/general-news.md)
 
+## Strategy
+
+* [Overview](strategy/overview.md)
+
+## Business
+
+* [Overview](business/overview.md)
+
