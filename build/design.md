@@ -2,7 +2,7 @@
 description: Design Resources
 ---
 
-# Resources
+# Design
 
 {% embed url="https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf" caption="NASA Robotics Alliance Design Guide" %}
 

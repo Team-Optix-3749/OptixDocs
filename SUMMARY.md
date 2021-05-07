@@ -9,6 +9,13 @@
 * [Strategy](training/strat-training.md)
 * [Business](training/business-training.md)
 
+## Build
+
+* [Fabrication](build/fabrication.md)
+* [Assembly](build/assembly.md)
+* [Mechanical](build/mechanical.md)
+* [Design](build/design.md)
+
 ## Software
 
 * [Documentation](software/documentation.md)
@@ -22,16 +29,6 @@
 * [Crimping](electrical/crimping.md)
 * [Sensors](electrical/sensors.md)
 * [Soldering](electrical/soldering.md)
-
-## Build
-
-* [Fabrication](build/fabrication.md)
-* [Assembly](build/assembly.md)
-* [Mechanical](build/mechanical.md)
-
-## Design
-
-* [Resources](design/resources.md)
 
 ## News
 
