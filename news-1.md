@@ -2,7 +2,7 @@
 description: Get all the FIRST news you need to know here!
 ---
 
-# General
+# News
 
 
 

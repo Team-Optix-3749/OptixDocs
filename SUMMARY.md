@@ -1,6 +1,7 @@
 # Table of contents
 
 * [General Resources](README.md)
+* [News](news-1.md)
 
 ## Training
 
@@ -29,10 +30,6 @@
 * [Crimping](electrical/crimping.md)
 * [Sensors](electrical/sensors.md)
 * [Soldering](electrical/soldering.md)
-
-## News
-
-* [General](news/general-news.md)
 
 ## Strategy
 
