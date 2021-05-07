@@ -2,6 +2,13 @@
 
 * [General Resources](README.md)
 
+## Training
+
+* [Build](training/build-training.md)
+* [Technology](training/tech-training.md)
+* [Strategy](training/strat-training.md)
+* [Business](training/business-training.md)
+
 ## Software
 
 * [Documentation](software/documentation.md)
