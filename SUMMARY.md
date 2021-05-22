@@ -1,7 +1,7 @@
 # Table of contents
 
 * [General Resources](README.md)
-* [News](news-1.md)
+* [News](news.md)
 
 ## Training
 
