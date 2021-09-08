@@ -1,7 +1,7 @@
 ---
 description: >-
-  Team Optix's collection of technical and general FIRST® Robotics Competition
-  resources.
+  Team Optix 3749's collection of technical and general FIRST® Robotics
+  Competition resources.
 ---
 
 # General Resources
