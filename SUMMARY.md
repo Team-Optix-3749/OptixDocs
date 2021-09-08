@@ -20,7 +20,7 @@
 ## Software
 
 * [Documentation](software/documentation.md)
-* [Old Robot Code](software/robot-code.md)
+* [Code Archive](software/robot-code.md)
 * [YouTube Videos](software/youtube-videos.md)
 
 ## Electrical
